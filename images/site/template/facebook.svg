@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="35" viewBox="0 0 19 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="imageMask" width="19" height="35" transform="translate(1238 2871)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" transform="translate(-1238 -2871)" clip-path="url(#clip-path)">
+    <image id="facebook-2" data-name="facebook" width="19" height="35" transform="translate(1238 2871)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAjCAYAAAB2KjFhAAAABHNCSVQICAgIfAhkiAAAAcRJREFUSEvtljlLA0EYhhPxxBMVBBHEP2CnhZWIhQqCYGFhE20UbP0RghCxFqw8kXigIIKNvbV2IggqWGiaeCc+b5hA2Mxsdo2NkIGH3ezM9+xc32yimUwmEqDU02YQpqAfGkzMJ9c0VMJdNICsg4ZzMAld0Op4+XMxWQ+BSzAB1UVGkPSTNRK8bHoVYCYivrJxDJsgaZCScvWshegViPlYXqh7NfV1XJ9csj4q96DbItPq7cMhpCAKNbp3yYap3HWs3BnPF+AGcvtKwohLNkrdhkWmfSXRmm34YWVvZh7V64ISVqY5mjVTEFg2ZALaPRFavWk4cPWsiYoK0CqpKGAM1i1zpmHOww4oI7ITb65pDfPUVGhlhAI6oReUwPlFL7yG2zyZhOJeskDHhkdq+5mVvZu3BGjv2+RSMg1LO7iU8kXwhWQf3FSVYiI2CQnJNKm5Vfmt84HAuGRxbnQs506Ab+51KCqlaj12DeccrkDbSZ3QFnmEY1cGDFB5BN5NqwzQd+DENgSXbITGSvQ2T5B6PwN/kpuSKTeVAQUlbKKXZeGP7fKc/cc50wdlG/SxyS/6CMdgK0w66e/BKjRbZIs8S9hkP/ML2spbGT/IAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>
